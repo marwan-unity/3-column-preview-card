@@ -6,6 +6,7 @@ body{
     color: hsla(0, 0%, 100%, 0.75);
   }
   .preview-cards-container{
+    margin-top: 30px;
     display: flex;
     border-radius: 10px;
     max-width: 57.5rem;
