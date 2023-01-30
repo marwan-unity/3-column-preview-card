@@ -29,7 +29,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: https://www.frontendmentor.io/challenges3column-preview-card-component-pH92eAR2-
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: https://marwan-unity.github.io/3-column-preview-card/
 
 ## My process
 
